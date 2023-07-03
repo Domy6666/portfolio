@@ -1,0 +1,15 @@
+.header {
+    margin: 0;
+    padding: 0;
+    width: 342px;
+    height: 656px;
+
+}
+.header__title {
+    font-size: 28px;
+    margin-bottom: 113px;
+}
+.header__list {
+    font-size: 18px;
+    font-weight: 100;
+}

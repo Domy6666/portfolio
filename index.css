@@ -1,0 +1,19 @@
+/*    CSS     */
+@import url(CSS/style.css);
+@import url(CSS/header/header.css);
+/* FONTS*/
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&display=swap');
+.page {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    margin-left: 22px;
+} 
+a {
+    color: white;
+    text-decoration:none;
+}
+.is-active {
+    text-decoration: underline 2px #fff;
+}
